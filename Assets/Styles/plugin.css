@@ -1,0 +1,12 @@
+.remPad{
+    padding: 0px !important;
+}
+#loadmore{
+    text-align: center;
+    padding: 10px;
+    background-color: #2CB87F;
+}
+#loadmore a{
+    color: #FFF;
+    text-decoration: none;
+}
